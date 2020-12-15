@@ -46,4 +46,4 @@ Additional Info Text
 
 <!-- IMPLEMENTATION ROADMAP -->
 ## Implementation Roadmap 
-![Implementation Roadmap](https://github.com/jonadose/icp_final/blob/main/images/roadmap.jpg)
+![Implementation Roadmap](https://github.com/jonadose/icp_final/blob/main/images/roadmap.PNG)
