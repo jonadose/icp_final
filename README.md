@@ -12,10 +12,6 @@
     </li>
     <li>
       <a href="#setup">Setup</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#dashboard">Dashboard</a></li>
     <li><a href="#roadmap"> Implementation Roadmap</a></li>
@@ -28,10 +24,11 @@
 ## About The Project
 ![Project Flowchart](https://github.com/jonadose/icp_final/blob/main/images/flowchart.jpg)
 
-Description Text......
+This data analysis project aims to accurately inform about the process health and product quality based on screwdriver data. 
+
 
 Key Findings:
-* Data Analysis framework 
+* ![Data Analysis Framework](https://github.com/jonadose/icp_final/blob/main/database.ipynb)
 * Dashboard
 * Implementation Roadmap
 
