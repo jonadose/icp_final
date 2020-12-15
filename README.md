@@ -27,10 +27,10 @@
 This data analysis project aims to accurately inform about the process health and product quality based on screwdriver data. 
 
 
-Key Findings:
+Key Findings: (links to the notebooks)
 * ![Data Analysis Framework](https://github.com/jonadose/icp_final/blob/main/database.ipynb)
-* Dashboard
-* Implementation Roadmap
+* ![Dashboard](https://github.com/jonadose/icp_final/blob/main/Webappbootstrap.ipynb)
+* ![Implementation Roadmap](href="#roadmap")
 
 Additional Info Text
 
@@ -42,7 +42,8 @@ Additional Info Text
 
 <!-- DAHSBOARD -->
 ## Dashboard 
-
+![Dashboard](https://github.com/jonadose/icp_final/blob/main/images/dashboard.jpg)
 
 <!-- IMPLEMENTATION ROADMAP -->
 ## Implementation Roadmap 
+![Implementation Roadmap](https://github.com/jonadose/icp_final/blob/main/images/roadmap.jpg)
