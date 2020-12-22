@@ -30,7 +30,7 @@ This data analysis project aims to accurately inform about the process health an
 Key Findings: (links to the notebooks)
 * ![Data Analysis Framework](https://github.com/jonadose/icp_final/blob/main/database.ipynb)
 * ![Dashboard](https://github.com/jonadose/icp_final/blob/main/Webappbootstrap.ipynb)
-* ![Implementation Roadmap](https://github.com/jonadose/icp_final/blob/main/images/roadmap.PNG)
+* ![Implementation Roadmap](href="roadmap")
 
 Additional Info Text
 
@@ -44,6 +44,6 @@ Additional Info Text
 ## Dashboard 
 ![Dashboard](https://github.com/jonadose/icp_final/blob/main/images/dashboard.jpg)
 
-<!-- IMPLEMENTATION ROADMAP -->
+<!-- ROADMAP -->
 ## Implementation Roadmap 
 ![Roadmap](https://github.com/jonadose/icp_final/blob/main/images/roadmap.PNG)
