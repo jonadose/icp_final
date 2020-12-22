@@ -14,7 +14,7 @@
       <a href="#setup">Setup</a>
     </li>
     <li><a href="#dashboard">Dashboard</a></li>
-    <li><a href="#roadmap"> Implementation Roadmap</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -45,5 +45,15 @@ Additional Info Text
 ![Dashboard](https://github.com/jonadose/icp_final/blob/main/images/dashboard.jpg)
 
 <!-- ROADMAP -->
-## Implementation Roadmap 
+## Roadmap 
 ![Roadmap](https://github.com/jonadose/icp_final/blob/main/images/roadmap.PNG)
+
+This outlines the four next milestones to be achieved for this project. 
+* Implementation of framework in context 
+* Statistical Evaluation (set interval)
+* Parameter Prediction (prediction of RC codes and suggest T1)
+* Predictive Maintenance (suggestions based on analysis)
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements 
+Thank you fo the support and effort .....
