@@ -56,4 +56,5 @@ This outlines the four next milestones to be achieved for this project.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements 
-Thank you fo the support and effort .....
+Thank you fo the support and esupervision of the project. 
+Peter, Brian and Elias
