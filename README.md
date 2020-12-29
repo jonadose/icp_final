@@ -52,7 +52,8 @@ This outlines the four next milestones to be achieved for this project.
 * Implementation of framework in context 
 * Statistical Evaluation (set interval)
 * Parameter Prediction (prediction of RC codes and suggest T1)
-* Predictive Maintenance (suggestions based on analysis)
+* Predictive Maintenance (suggestions based on analysis
+)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements 
